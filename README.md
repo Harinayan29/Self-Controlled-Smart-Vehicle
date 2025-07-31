@@ -36,11 +36,16 @@ MICROPROCESSORS AND CONTROLLERS
 5. traffic sign detection
 6. Speed control
    
-![247194503-156c853c-4c7e-41c3-8e30-42a78317b11f](https://github.com/user-attachments/assets/ec1e3ea4-1a68-4e75-9d73-91d6c8cfd1d9)
+<h3>🌐 Hosted UI Snapshots</h3>
 
-![247194674-663fec5a-9dec-4e5d-a169-c92471427721](https://github.com/user-attachments/assets/e788f63a-5980-4c97-b098-5c0f02c1abce)
+<div>
+  <img src="https://github.com/user-attachments/assets/ec1e3ea4-1a68-4e75-9d73-91d6c8cfd1d9/247194503-156c853c-4c7e-41c3-8e30-42a78317b11f" width="48%" style="margin-right: 2%;" />
+  <img src="https://github.com/user-attachments/assets/e788f63a-5980-4c97-b098-5c0f02c1abce/247194674-663fec5a-9dec-4e5d-a169-c92471427721" width="48%" />
+</div>
 
-![247195277-fc781220-f43f-4f36-b484-d8a7839c627f](https://github.com/user-attachments/assets/b1fc6abf-7278-4a2c-a86d-8ad90a990862)
+<div>
+  <img src="https://github.com/user-attachments/assets/b1fc6abf-7278-4a2c-a86d-8ad90a990862/247195277-fc781220-f43f-4f36-b484-d8a7839c627f" width="48%" />
+</div>
 
 # contact
 Harinayan -harinayankandukuri1@gmail.com
