@@ -28,14 +28,26 @@ MICROPROCESSORS AND CONTROLLERS
 18. Arduino IDE
 19. Raspbian OS
 20. MIT app Inventor
-# outcomes
-1. obstacle avoidance
-2. path follower
-3. voice commands
-4. manual mode
-5. traffic sign detection
-6. Speed control
-   
+## Features
+- Obstacle Avoidance
+- Path Following
+- Bluetooth Manual Control
+- Voice Commands
+- Traffic Signal Detection
+- Speed Control
+## Technologies
+- Arduino UNO
+- Raspberry Pi 4
+- C++
+- Python
+- MIT App Inventor
+- HC-05 Bluetooth Module
+- Ultrasonic Sensor (HC-SR04)
+## Results
+- Successfully navigates obstacles automatically.
+- Supports wireless control using Android.
+- Demonstrates autonomous driving concepts for smart transportation.
+  
 ![247194503-156c853c-4c7e-41c3-8e30-42a78317b11f](https://github.com/user-attachments/assets/ec1e3ea4-1a68-4e75-9d73-91d6c8cfd1d9)
 
 ![247194674-663fec5a-9dec-4e5d-a169-c92471427721](https://github.com/user-attachments/assets/e788f63a-5980-4c97-b098-5c0f02c1abce)
